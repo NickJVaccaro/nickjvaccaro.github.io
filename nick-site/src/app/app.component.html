@@ -1,0 +1,31 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" routerLink="/about">{{title}}</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <div class="navbar-nav">
+      <a class="nav-item nav-link" routerLink="/about">About</a>
+      <a class="nav-item nav-link" routerLink="/projects">Projects</a>
+      <a class="nav-item nav-link" routerLink="/now">Now</a>
+    </div>
+  </div>
+</nav>
+
+<div class="container">
+  <br/>
+  <router-outlet></router-outlet>
+  <hr/>
+  <div class="row justify-content-center">
+    <div class="col-1">
+        <a href="mailto:njvaccaro0@gmail.com" class="fas fa-envelope-square fa-clickable fa-3x"></a>
+    </div>
+    <div class="col-1">
+        <a href="https://twitter.com/NickJVaccaro" class="fab fa-twitter-square fa-clickable fa-3x" target="_blank"></a>
+    </div>
+    <div class="col-1">
+        <a href="https://www.linkedin.com/in/nickjvaccaro/" class="fab fa-linkedin fa-clickable fa-3x" target="_blank"></a>
+    </div>
+  </div>
+</div>
