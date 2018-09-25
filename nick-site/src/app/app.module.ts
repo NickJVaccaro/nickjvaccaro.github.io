@@ -9,6 +9,7 @@ import { ProjectsComponent } from './projects/projects.component';
 import { NowComponent } from './now/now.component';
 
 const appRoutes: Routes = [
+  { path: '', redirectTo: '/about', pathMatch: 'full' },
   { path: 'about', component: AboutComponent },
   //{ path: 'games', component: GamesComponent },
   { path: 'projects', component: ProjectsComponent },
