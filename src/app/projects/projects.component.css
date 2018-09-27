@@ -1,0 +1,15 @@
+.projectsHeading {
+    color: #222;
+}
+
+.projectsHeading:hover {
+    color: #777;
+}
+
+.btn-card-header {
+    background-color: transparent;
+}
+
+.btn-card-header:focus {
+    box-shadow: none;
+}

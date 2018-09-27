@@ -1,0 +1,21 @@
+.fa-clickable {
+    color: #333;
+    transition: color 2s;
+}
+
+.fa-clickable:hover {
+    text-decoration: none;
+    transition: color 0.1s;
+}
+
+.fa-twitter-square:hover {
+    color: #1DA1F2
+}
+
+.fa-linkedin:hover {
+    color: #0077B5;
+}
+
+.fa-envelope-square:hover {
+    color: #D44638;
+}

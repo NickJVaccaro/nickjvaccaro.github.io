@@ -1,0 +1,31 @@
+[
+    {
+        "title": "EQ Music & Ambiance",
+        "img": "assets/kelethin.jpg",
+        "link": "https://www.youtube.com/playlist?list=PLYajEirX_oyIc3nd2lk2BoNom84nQOPNW",
+        "summary": "YouTube video collection of EverQuest 1 in-game music and ambiance.",
+        "tech": "EQEmu, MySQL, OBS Studio",
+        "type": "other"
+    }, {
+        "title": "MC Lars: The Video Game",
+        "img": "https://static1.squarespace.com/static/522bcb74e4b09d456b08341d/t/57d9da4b893fc0962fec1ce8/1473895015894/?format=1000w",
+        "link": "http://synersteel.com/mc-lars/",
+        "summary": "Rhythm platformer available on Steam, iOS and Android.",
+        "tech": "Unity, C#",
+        "type": "game"
+    }, {
+        "title": "The Barn: The Video Game",
+        "img": "https://static1.squarespace.com/static/522bcb74e4b09d456b08341d/t/575b3fbf7c65e4e97fd39e00/1465597955375/?format=1000w",
+        "link": "http://synersteel.com/the-barn/",
+        "summary": "Side-scrolling beat-em-up available on iOS and Android.",
+        "tech": "Unity, C#",
+        "type": "game"
+    }, {
+        "title": "Synersteel Website",
+        "img": "assets/synersteel.jpg",
+        "link": "http://synersteel.com/",
+        "summary": "Squarespace website for my game company.",
+        "tech": "Squarespace",
+        "type": "code"
+    }
+]
