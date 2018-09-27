@@ -2,3 +2,7 @@
 li {
     list-style-type: square;
 }
+
+p, li {
+    font-size: 1.3em;
+}
