@@ -1,0 +1,15 @@
+.project-img > img {
+    height: 150px;
+    object-fit: cover;
+    object-position: center;
+    margin-bottom: 0;
+}
+
+.project-img {
+    margin-bottom: 0;
+}
+
+.project-row {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
