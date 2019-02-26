@@ -17,7 +17,7 @@ export class ProjectsDisplayComponent implements OnChanges {
       var tempProjects: Project[] = [];
 
       for(let project of this.projects) {
-        console.log(project.type + ", " + this.type);
+        //console.log(project.type + ", " + this.type);
         if(project.type === this.type) {
           tempProjects.push(project);
         }
