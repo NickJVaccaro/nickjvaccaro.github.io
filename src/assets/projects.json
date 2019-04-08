@@ -1,87 +1,66 @@
 [
     {
+        "title": "Privakey",
+        "img": "assets/privakey.jpg",
+        "link": "https://www.privakey.com",
+        "summary": "2-factor authentication app. I did full stack web dev, interfacing with mobile and desktop apps. Wrote fully responsive user-facing portal in Angular. Led team of 10 as Scrum Master.",
+        "tech": "C#, .NET/Core, Angular, AWS, MySQL, IIS, Asana",
+        "type": "code"
+    }, {
         "title": "EQ Music & Ambiance",
         "img": "assets/kelethin.jpg",
         "link": "https://www.youtube.com/playlist?list=PLYajEirX_oyIc3nd2lk2BoNom84nQOPNW",
         "summary": "YouTube video collection of EverQuest 1 in-game music and ambiance.",
-        "tech": "EQEmu, MySQL, OBS Studio",
+        "tech": "MySQL, EQEmu, OpenShot, OBS Studio",
         "type": "other"
     }, {
         "title": "D&D Campaign",
         "img": "https://i.imgur.com/LIxiJXA.jpg",
         "link": "http://sleepinggiants.fun",
-        "summary": "Campaign I've been running for almost 2 years for 5-6 players.",
+        "summary": "Campaign I've been running over 2 years for 5-6 players.",
         "tech": "Image Transmitter, Obsidian Portal, GIMP, OneNote",
         "type": "other"
     }, {
-        "title": "Valley of Shadow (working title)",
+        "title": "Valley of Shadow (WIP)",
         "img": "https://valleyofshadowgame.com/assets/img/screenshots/40.jpg",
         "link": "https://valleyofshadowgame.com/",
-        "summary": "Work in progress. First-person narrative puzzle game planned for a Steam release.",
-        "tech": "Unity3D, C#",
+        "summary": "First-person narrative puzzle game planned for a Steam release. Cast spells to solve puzzles in a dark world. I do all things technical for the game.",
+        "tech": "Unity3D, C#, Asana",
         "type": "game"
     }, {
         "title": "MC Lars 2: Brotherhood",
         "img": "https://static1.squarespace.com/static/522bcb74e4b09d456b08341d/t/5c4b728742bfc120277c4782/1548448858356/brotherhood.png?format=1000w",
         "link": "http://synersteel.com/mc-lars-2/",
-        "summary": "Rhythm platformer available on Steam, iOS and Android. Sequel to MC Lars: The Video Game.",
-        "tech": "Unity3D, C#",
-        "type": "game"
-    }, {
-        "title": "MC Lars: The Video Game",
-        "img": "https://static1.squarespace.com/static/522bcb74e4b09d456b08341d/t/57d9da4b893fc0962fec1ce8/1473895015894/?format=1000w",
-        "link": "http://synersteel.com/mc-lars/",
-        "summary": "Rhythm platformer available on Steam, iOS and Android.",
-        "tech": "Unity3D, C#",
-        "type": "game"
-    }, {
-        "title": "The Barn: The Video Game",
-        "img": "https://static1.squarespace.com/static/522bcb74e4b09d456b08341d/t/575b3fbf7c65e4e97fd39e00/1465597955375/?format=1000w",
-        "link": "http://synersteel.com/the-barn/",
-        "summary": "Side-scrolling beat-em-up available on iOS and Android.",
-        "tech": "Unity3D, C#",
+        "summary": "Rhythm platformer available on Steam, iOS and Android. Sequel to MC Lars: The Video Game. Worked on a team of 3 with 5 clients. Released in 2017.",
+        "tech": "Unity3D, C#, Basecamp, Asana",
         "type": "game"
     }, {
         "title": "Dojo Storm",
         "img": "https://static1.squarespace.com/static/522bcb74e4b09d456b08341d/t/55ff37dde4b0899b91357a70/1442789367015/?format=1000w",
         "link": "http://synersteel.com/dojo-storm/",
-        "summary": "Top-down retro RPG available on iOS and Android.",
+        "summary": "Top-down retro RPG available on iOS and Android. Successfully crowdfunded via indiegogo. Built external design tools to enable content creation (60+ characters, 50+ maps). Released in 2015.",
         "tech": "Unity3D, C#, Windows Forms, XML",
         "type": "game"
     }, {
         "title": "Valley of Shadow Website",
         "img": "assets/vosSite.jpg",
         "link": "https://valleyofshadowgame.com",
-        "summary": "Website for our game. Fully responsive.",
-        "tech": "AngularJS, MailChimp integration, CSS Animations",
-        "type": "code"
-    }, {
-        "title": "Personal Website",
-        "img": "assets/personalSite.jpg",
-        "link": "https://github.com/NickJVaccaro/personal-site",
-        "summary": "The website you are currently on.",
-        "tech": "AngularJS, CSS Animations",
-        "type": "code"
-    }, {
-        "title": "Privakey",
-        "img": "assets/privakey.jpg",
-        "link": "https://www.privakey.com",
-        "summary": "Development and project management of a 2-factor login app. I did full stack web dev, interfacing with mobile and desktop apps.",
-        "tech": "C#, .NET, .NET Core, Asana, ",
+        "summary": "Website for the Synersteel game. Fully responsive, animated, with custom newsletter subscription functionality.",
+        "tech": "Angular, MailChimp, CSS",
         "type": "code"
     }, {
         "title": "Image Transmitter",
         "img": "assets/imageTransmitter.jpg",
         "link": "https://github.com/NickJVaccaro/ImageTransmitter",
         "summary": "Very basic webapp, used to remotely display images via HTML.",
-        "tech": "NodeJS, AngularJS",
+        "tech": "NodeJS, Angular, CSS",
         "type": "code"
     }, {
-        "title": "Synersteel Website",
-        "img": "assets/synersteel.jpg",
-        "link": "http://synersteel.com/",
-        "summary": "Squarespace website for my game company.",
-        "tech": "Squarespace",
+        "title": "Personal Website",
+        "img": "assets/personalSite.jpg",
+        "link": "https://github.com/NickJVaccaro/personal-site",
+        "summary": "The website you are currently on. Emphasis is largely on minalist design and animations. Regularly updated.",
+        "tech": "Angular, JSON, CSS",
         "type": "code"
     }
 ]
