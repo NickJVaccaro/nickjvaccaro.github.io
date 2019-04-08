@@ -59,7 +59,7 @@
         "title": "Personal Website",
         "img": "assets/personalSite.jpg",
         "link": "https://github.com/NickJVaccaro/personal-site",
-        "summary": "The website you are currently on. Emphasis is largely on minalist design and animations. Regularly updated.",
+        "summary": "The website you are currently on. Emphasis is largely on minimalist design and animations. Regularly updated.",
         "tech": "Angular, JSON, CSS",
         "type": "code"
     }
