@@ -1,5 +1,5 @@
 .fa-clickable {
-    color: #333;
+    color: #444;
     transition: color 2s;
 }
 
@@ -18,4 +18,12 @@
 
 .fa-envelope-square:hover {
     color: #D44638;
+}
+
+.fa-github-square:hover {
+    color: #000;
+}
+
+.link-footer {
+    margin-bottom: 50px;
 }
